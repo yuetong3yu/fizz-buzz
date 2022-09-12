@@ -1,8 +1,4 @@
-import { fizz, sum } from "./fizz";
-
-test("sum", () => {
-  expect(sum(1, 2)).toBe(3);
-});
+import { fizz } from "./fizz";
 
 test("Fizz: 3 and 5 both", () => {
   expect(fizz(15)).toBe("FizzBuzz");

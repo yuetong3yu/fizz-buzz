@@ -6,7 +6,3 @@ export function fizz(n) {
   if (n % 3 === 0) return "Fizz";
   if (n % 5 === 0) return "Buzz";
 }
-
-export function sum(n1, n2) {
-  return n1 + n2;
-}
