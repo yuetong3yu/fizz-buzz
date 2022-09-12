@@ -1,0 +1,23 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuetong3yu/fizz-buzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuetong3yu/fizz-buzz/issues"
+  },
+  "homepage": "https://github.com/yuetong3yu/fizz-buzz#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
